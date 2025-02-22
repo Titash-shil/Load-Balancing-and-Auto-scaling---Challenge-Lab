@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Reduce-Costs-for-the-Managed-Service-for-Prometheus-GSP1027/refs/heads/main/qwiklab_explorers_gsp1027.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Load-Balancing-and-Auto-scaling---Challenge-Lab/refs/heads/main/qwiklab_explorers.sh
 
-sudo chmod +x qwiklab_explorers_gsp1027.sh
+sudo chmod +x qwiklab_explorers.sh
 
-./qwiklab_explorers_gsp1027.sh
+./qwiklab_explorers.sh
 ```
 ---
 
